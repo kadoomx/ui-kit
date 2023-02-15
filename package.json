@@ -1,0 +1,30 @@
+{
+  "name": "ui-kit",
+  "version": "1.0.0",
+  "description": "AdminLTE layout for NextJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kadoomx/ui-kit.git"
+  },
+  "author": "Osvaldo Garcia <osvaldo@kadoo.mx>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadoomx/ui-kit/issues"
+  },
+  "homepage": "https://github.com/kadoomx/ui-kit#readme",
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "head": "^1.0.0",
+    "next": "^13.1.6",
+    "nprogress": "^0.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-resize-detector": "^8.0.3"
+  }
+}
